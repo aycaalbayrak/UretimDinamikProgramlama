@@ -1,4 +1,4 @@
-# Üretim Hattı Minimum Tamamlama Süresi
+# Üretim Hattı Dinamik Programlama
 
 Bu proje, bir üretim hattında işleri ve makineleri optimize ederek **minimum toplam tamamlama süresini** hesaplayan bir Java uygulamasıdır.
 
